@@ -1,0 +1,33 @@
+---
+title: "Lab14 Slides"
+author: "Karlena Ochoa Steigerwald"
+date: "November 19, 2018"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Practice with slides 
+
+This will be a published slide deck. 
+
+## Favorite thanksgiving food/drinks
+
+- Mashed potatoes
+- Wine
+- Turkey 
+
+## Slide with R Output
+
+```{r cars, echo = TRUE}
+summary(cars)
+```
+
+## Slide with Plot
+
+```{r pressure}
+plot(pressure)
+```
+
